@@ -1,0 +1,215 @@
+[
+  {
+    "state": "West Bengal", "state_code": "WB",
+    "contaminants": [
+      {"contaminant": "arsenic", "severity": "severe", "affected_habitations": 10846, "affected_population": 11764301, "notable_districts": ["Malda", "Murshidabad", "Nadia", "North 24 Parganas", "South 24 Parganas", "Bardhaman", "Howrah", "Hooghly"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 1336, "affected_population": 838552, "notable_districts": ["Birbhum", "Bankura", "Purulia"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"}
+    ]
+  },
+  {
+    "state": "Assam", "state_code": "AS",
+    "contaminants": [
+      {"contaminant": "arsenic", "severity": "high", "affected_habitations": 4518, "affected_population": 1701455, "notable_districts": ["Jorhat", "Dhemaji", "Golaghat", "Lakhimpur", "Nagaon"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "iron", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["widespread across the Brahmaputra valley"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": 285, "affected_population": 113837, "notable_districts": ["Karbi Anglong", "Nagaon"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"}
+    ]
+  },
+  {
+    "state": "Bihar", "state_code": "BR",
+    "contaminants": [
+      {"contaminant": "arsenic", "severity": "high", "affected_habitations": 871, "affected_population": 1322376, "notable_districts": ["Bhojpur", "Buxar", "Bhagalpur", "Patna", "Vaishali", "Samastipur"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018); arsenic along the Ganga belt"},
+      {"contaminant": "fluoride", "severity": "high", "affected_habitations": 898, "affected_population": 1100274, "notable_districts": ["Gaya", "Nawada", "Banka", "Jamui", "Rohtas", "Kaimur"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "nitrate", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "uranium", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Uttar Pradesh", "state_code": "UP",
+    "contaminants": [
+      {"contaminant": "arsenic", "severity": "moderate", "affected_habitations": 748, "affected_population": 573767, "notable_districts": ["Ballia", "Ghazipur", "Lakhimpur Kheri", "Bahraich", "Gorakhpur"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018); Ganga/Ghaghara plains"},
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": 179, "affected_population": 310011, "notable_districts": ["Unnao", "Rae Bareli", "Agra", "Mathura"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Punjab", "state_code": "PB",
+    "contaminants": [
+      {"contaminant": "uranium", "severity": "severe", "affected_habitations": null, "affected_population": null, "notable_districts": ["Bathinda", "Mansa", "Faridkot", "Moga", "Muktsar", "Barnala"], "source": "CGWB 2024 — Punjab among the two worst uranium states (Malwa belt)"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["Malwa region"], "source": "CGWB Annual Ground Water Quality Report 2024 (fertiliser runoff)"},
+      {"contaminant": "arsenic", "severity": "moderate", "affected_habitations": 710, "affected_population": 894936, "notable_districts": ["Amritsar", "Gurdaspur", "Tarn Taran"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 302, "affected_population": 362035, "notable_districts": ["Bathinda", "Mansa", "Faridkot"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"}
+    ]
+  },
+  {
+    "state": "Rajasthan", "state_code": "RJ",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "severe", "affected_habitations": 6087, "affected_population": 4194310, "notable_districts": ["Nagaur", "Jaipur", "Ajmer", "Bhilwara", "Sikar", "Jodhpur", "Barmer", "Pali", "Dungarpur"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018) — the most fluoride-affected state"},
+      {"contaminant": "nitrate", "severity": "severe", "affected_habitations": null, "affected_population": null, "notable_districts": ["widespread"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "uranium", "severity": "severe", "affected_habitations": null, "affected_population": null, "notable_districts": ["42% of national uranium-exceeding samples"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "salinity", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["arid western districts"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Telangana", "state_code": "TG",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "severe", "affected_habitations": 877, "affected_population": 1204472, "notable_districts": ["Nalgonda", "Suryapet", "Nagarkurnool", "Wanaparthy"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018) — Nalgonda is the classic fluorosis belt"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["3 of the 15 worst-affected districts nationally"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "uranium", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Karnataka", "state_code": "KA",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "high", "affected_habitations": 600, "affected_population": 402674, "notable_districts": ["Pavagada (Tumkur)", "Kolar", "Chikkaballapur", "Kalaburagi", "Raichur", "Bagalkot", "Koppal"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["widespread, incl. peri-urban Bengaluru"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "uranium", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["geogenic, eastern districts"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "arsenic", "severity": "localized", "affected_habitations": 4, "affected_population": 3221, "notable_districts": ["Raichur"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"}
+    ]
+  },
+  {
+    "state": "Maharashtra", "state_code": "MH",
+    "contaminants": [
+      {"contaminant": "nitrate", "severity": "severe", "affected_habitations": null, "affected_population": null, "notable_districts": ["7 of the 15 worst-affected districts nationally (Vidarbha, Nagpur region)"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 79, "affected_population": 154985, "notable_districts": ["Chandrapur", "Nagpur", "Yavatmal"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "uranium", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Andhra Pradesh", "state_code": "AP",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "high", "affected_habitations": 349, "affected_population": 228730, "notable_districts": ["Anantapur", "Prakasam", "Guntur", "Kurnool", "Nellore"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Tamil Nadu", "state_code": "TN",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["Dharmapuri", "Krishnagiri", "Vellore", "Salem", "Erode"], "source": "CGWB Annual Ground Water Quality Report 2024 (geogenic fluoride belt)"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "salinity", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["coastal aquifers (Chennai, Cauvery delta)"], "source": "CGWB Annual Ground Water Quality Report 2024 (seawater intrusion)"}
+    ]
+  },
+  {
+    "state": "Gujarat", "state_code": "GJ",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["Banaskantha", "Mehsana", "Patan", "Sabarkantha"], "source": "CGWB Annual Ground Water Quality Report 2024 (North Gujarat geogenic fluoride)"},
+      {"contaminant": "salinity", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["Saurashtra and Kutch coast (seawater intrusion)"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "nitrate", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Haryana", "state_code": "HR",
+    "contaminants": [
+      {"contaminant": "uranium", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["southern Haryana"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 119, "affected_population": 296751, "notable_districts": ["Mahendragarh", "Rewari", "Bhiwani", "Jind"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "salinity", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["south-west Haryana"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Madhya Pradesh", "state_code": "MP",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 171, "affected_population": 73219, "notable_districts": ["Jhabua", "Dhar", "Shivpuri", "Mandla"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "nitrate", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "uranium", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Jharkhand", "state_code": "JH",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "high", "affected_habitations": 552, "affected_population": 263870, "notable_districts": ["Palamu", "Garhwa", "Giridih", "Koderma"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "arsenic", "severity": "localized", "affected_habitations": 102, "affected_population": 92270, "notable_districts": ["Sahibganj"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018) — Ganga belt"}
+    ]
+  },
+  {
+    "state": "Chhattisgarh", "state_code": "CT",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "moderate", "affected_habitations": 405, "affected_population": 131263, "notable_districts": ["Rajnandgaon", "Durg", "Kanker"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "arsenic", "severity": "localized", "affected_habitations": 19, "affected_population": 7335, "notable_districts": ["Rajnandgaon"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "uranium", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Odisha", "state_code": "OR",
+    "contaminants": [
+      {"contaminant": "iron", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["coastal and tribal districts"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": 105, "affected_population": 29993, "notable_districts": ["Nuapada", "Bolangir", "Angul"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "salinity", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": ["coastal belt"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Kerala", "state_code": "KL",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": 34, "affected_population": 80427, "notable_districts": ["Palakkad", "Alappuzha"], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"},
+      {"contaminant": "iron", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["lateritic aquifers"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Delhi", "state_code": "DL",
+    "contaminants": [
+      {"contaminant": "nitrate", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["South-West, North-West Delhi"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "salinity", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["South-West Delhi"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": ["parts of South-West Delhi"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Tripura", "state_code": "TR",
+    "contaminants": [
+      {"contaminant": "iron", "severity": "high", "affected_habitations": null, "affected_population": null, "notable_districts": ["widespread"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "arsenic", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Manipur", "state_code": "MN",
+    "contaminants": [
+      {"contaminant": "iron", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["valley districts"], "source": "CGWB Annual Ground Water Quality Report 2024"},
+      {"contaminant": "arsenic", "severity": "localized", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Goa", "state_code": "GA", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets; localized iron possible. Get your specific source tested."
+  },
+  {
+    "state": "Himachal Pradesh", "state_code": "HP", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets. Mountain spring sources vary locally."
+  },
+  {
+    "state": "Uttarakhand", "state_code": "UK", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets; localized issues in the Terai plains."
+  },
+  {
+    "state": "Meghalaya", "state_code": "ML",
+    "contaminants": [
+      {"contaminant": "iron", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": [], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  },
+  {
+    "state": "Sikkim", "state_code": "SK", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets."
+  },
+  {
+    "state": "Arunachal Pradesh", "state_code": "AR", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets; localized iron possible."
+  },
+  {
+    "state": "Nagaland", "state_code": "NL", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets."
+  },
+  {
+    "state": "Mizoram", "state_code": "MZ", "contaminants": [],
+    "note": "No major groundwater contamination reported in national datasets."
+  },
+  {
+    "state": "Jammu and Kashmir", "state_code": "JK",
+    "contaminants": [
+      {"contaminant": "fluoride", "severity": "localized", "affected_habitations": 4, "affected_population": 9586, "notable_districts": [], "source": "Ministry of Drinking Water & Sanitation IMIS (2018)"}
+    ]
+  },
+  {
+    "state": "Puducherry", "state_code": "PY",
+    "contaminants": [
+      {"contaminant": "salinity", "severity": "moderate", "affected_habitations": null, "affected_population": null, "notable_districts": ["coastal (seawater intrusion)"], "source": "CGWB Annual Ground Water Quality Report 2024"}
+    ]
+  }
+]
