@@ -1,5 +1,7 @@
 # JalCheck
 
+[![CI](https://github.com/shaurya703/jalcheck/actions/workflows/ci.yml/badge.svg)](https://github.com/shaurya703/jalcheck/actions/workflows/ci.yml)
+
 **Find out what's contaminating your area's groundwater — arsenic, fluoride, nitrate, uranium — what it does to your body, and how to actually remove it.**
 
 India runs the world's largest groundwater-quality monitoring effort. The Central Ground Water Board and the Jal Shakti ministry know, district by district, where the water carries **arsenic** (West Bengal, Assam, Bihar), **fluoride** (Rajasthan, Telangana, Karnataka), **nitrate** (56% of districts exceed the safe limit), and **uranium** (Rajasthan, Punjab). Tens of millions of people drink it.
